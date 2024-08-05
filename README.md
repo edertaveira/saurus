@@ -53,6 +53,8 @@ ou
 yarn test
 ```
 
+![Test](src/assets/screenshots/test.png)
+
 ## Estrutura do Projeto
 * src/: Contém todo o código fonte do projeto.
     - pages/: Páginas principais do aplicativo.
